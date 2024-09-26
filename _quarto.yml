@@ -3,16 +3,20 @@ project:
   output-dir: docs
 
 website:
-  title: "acpopal.github.io"
+  title: "Alexandrea Cole Patino"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - about.qmd
+      - CV.qmd
+      - Research Projects.qmd
+      - Posts.qmd
+      
 
 format:
   html:
-    theme: cosmo
+    theme: minty
     css: styles.css
     toc: true
 

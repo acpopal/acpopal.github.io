@@ -1,11 +1,18 @@
 ---
-title: "acpopal.github.io"
+title: "Alexandrea Cole Patino"
+image: media/IMG_5722 copy.JPG
+toc: false
+about: 
+  template: jolla
+  image-shape: round
+  image-width: 17em
+  links:
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/alexandrea-cole-patino
+    - text: GitHub
+      href: https://github.com/acpopal
 ---
 
-This is a Quarto website.
+Hello :)
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+I am a fourth year student studying community and public health and health informatics and analytics. Nice to meet you.

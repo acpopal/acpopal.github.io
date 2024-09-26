@@ -2,8 +2,14 @@
 title: "About"
 ---
 
-About this site
+#### Academics
 
-```{r}
-1 + 1
-```
+\_\_.
+
+#### Profession
+
+\_\_.
+
+#### Hobbies
+
+\_\_.
