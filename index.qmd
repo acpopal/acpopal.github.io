@@ -3,14 +3,16 @@ title: "Alexandrea Cole Patino"
 image: media/IMG_5722 copy.JPG
 toc: false
 about: 
-  template: jolla
-  image-shape: round
-  image-width: 17em
+  template: trestles
+  image-shape: rounded
+  image-width: 10em
   links:
     - text: LinkedIn
       href: https://www.linkedin.com/in/alexandrea-cole-patino
     - text: GitHub
       href: https://github.com/acpopal
+editor_options: 
+  chunk_output_type: inline
 ---
 
 Hello :)
