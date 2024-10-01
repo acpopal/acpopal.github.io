@@ -11,6 +11,20 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "Academics\n__.\n\n\nProfession\n__.\n\n\nHobbies\n__."
+    "text": "Academics\n__.\n\n\nExperiences\n__.\n\n\nInterests\n__.\n\n\nHobbies\n__."
+  },
+  {
+    "objectID": "CV.html",
+    "href": "CV.html",
+    "title": "CV",
+    "section": "",
+    "text": "Download PDF file."
+  },
+  {
+    "objectID": "Research Projects.html",
+    "href": "Research Projects.html",
+    "title": "Research Projects",
+    "section": "",
+    "text": "[Title of Research Project]\n__.\nDownload PDF file.\n\n\n[Title of Research Project]\n__.\nDownload PDF file."
   }
 ]

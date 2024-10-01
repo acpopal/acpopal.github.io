@@ -2,3 +2,15 @@
 title: "Research Projects"
 toc: false
 ---
+
+#### *From Knowledge to Care: A Systematic Review on Training Health Workers for Menstrual and Associated Pain Management*
+
+\_\_.
+
+{{< pdf Media/JHUproject.pdf width=100% height=650 >}}
+
+#### *PERIOD: Educate, Impact, and Perceptions*
+
+\_\_.
+
+{{< pdf Media/PERIODproject.pdf width=100% height=650 >}}
