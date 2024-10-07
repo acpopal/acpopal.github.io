@@ -5,4 +5,4 @@ toc: false
 
 This is my CV, where you'll find a comprehensive overview of my academic background, research projects, work and presentation experiences, along with my skills and language proficiencies.
 
-<embed src="Media/ACPCV.pdf" type="application/pdf" width="750" height="850">
+{{< pdf ACPCV.pdf >}}
