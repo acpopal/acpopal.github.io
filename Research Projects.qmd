@@ -7,10 +7,14 @@ toc: false
 
 *From Knowledge to Care: A Systematic Review on Training Health Workers on Menstrual and Associated Pain Management* evaluates the effectiveness of health worker training on improving the diagnosis and management of menstrual pain, emphasizing enhanced care and better patient outcomes through comprehensive education.
 
-<embed src="Media/JHUproject.pdf" width="600" height="500" type="application/pdf">
+```{r}
+include_pdf("Media/JHUproject.pdf")
+```
 
-#### *PERIOD: Educate, Impact, and Perceptions*
+#### *PERIOD: Educate, Impact, and Perceptions* 
 
 *PERIOD: Educate, Impact and Perceptions* explores the effectiveness of various education sources on menstruation and youth perceptions, highlighting the positive impact of multimodal programs while addressing the persistent stigma surrounding menstruation and advocating for menstrual equity.
 
-<embed src="Media/PERIODproject.pdf" width="600" height="500" type="application/pdf">
+```{r}
+include_pdf("Media/PERIODproject.pdf")
+```
