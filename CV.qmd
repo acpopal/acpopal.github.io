@@ -3,4 +3,6 @@ title: "CV"
 toc: false
 ---
 
+This is my CV, where you'll find a comprehensive overview of my academic background, research projects, work and presentation experiences, along with my skills and language proficiencies.
+
 {{< pdf Media/ACPCV.pdf width=80% height=850 >}}

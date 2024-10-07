@@ -1,20 +1,35 @@
 ---
 title: "About"
-toc: true
+toc: false
 ---
 
 #### Academics
 
-\_\_.
+I’m a fourth-year student at [Chaminade University of Honolulu](https://chaminade.edu){target="blank_"}, pursuing a bachelor's degree in [Community and Public Health](https://chaminade.edu/nursing-health-professions/public-health/){target="blank_"} with a certificate in Health Informatics and Analytics as part of the [Data Science, Analytics and Visualization program](https://chaminade.edu/nsm/data-science/){target="_blank"}. My passion for public health began during my research on menstruation education and perceptions, where I discovered a gap in literature around menstrual health education and advocacy. Since then, I’ve focused on advancing reproductive health and justice, particularly menstrual health, through research, policy analysis, and community outreach. I love working at the intersection of stories, data, and health to create positive change.
+
+![](Media/work.png){fig-align="center" width="50%"}
 
 #### Experiences
 
-\_\_.
+I focus on reproductive health and justice, particularly menstrual health, through two major research projects. My project *PERIOD: Educate, Impact and Perceptions* explores the effectiveness of various education sources on menstruation and youth perceptions. Using a thematic approach, we found that multimodal education programs significantly increase menstrual health knowledge, though societal stigma remains a barrier. We also examined the physiological and psychological aspects of menstruation, noting a limited focus on the latter in current educational tools. This research emphasizes the importance of advocating for menstrual equity, particularly for Native Hawaiian, Indigenous, and People of Color (BIPOC), integrating indigenous ways of knowing and fostering empowerment.
 
-#### Interests
+In my second project, *From Knowledge to Care: A Systematic Review on Training Health Workers on Menstrual and Associated Pain Management,* I assessed the impact of training health workers to better manage menstrual pain and related disorders. This review demonstrated that targeted education programs enhance health workers’ diagnostic abilities, improve pain management strategies, and positively influence patient satisfaction and quality of life. The project highlights the need for comprehensive training to equip healthcare professionals with the skills to address menstrual pain, ultimately contributing to better person-centered care.
 
-\_\_.
+Through these research initiatives, I am committed to advancing reproductive health education, policy, and advocacy, ensuring more equitable and comprehensive care for menstruators. Alongside my studies, I’ve been involved in conferences, research projects, and outreach initiatives that align with my commitment to improving reproductive health through evidence-based research.
+
+![](Media/present.png){fig-align="center" width="50%"}
 
 #### Hobbies
 
-\_\_.
+Beauty, stories, and movement are parts of who I am and what I value, which can often be seen in my hobbies.
+
+You’ll often find me connecting with nature and creativity in different ways. Growing up in Hawai’i, I’ve always been surrounded by the bold and vivid beauty of the islands' flora. There’s something special about flowers and plants—their resilience and beauty have always given me a sense of awe and joy. For me, they carry memories, spirit, and love. I find a lot of meaning in preserving flowers, whether it’s leis from graduations or my mother’s wedding bouquet. Every flower holds a story, and I love remebering those moments through flowers.
+
+| ![](Media/lei.png){width=100%} | ![](Media/box.png){width=60%} |
+|:-------------------------------:|:------------------------------:|
+
+Books are another deep passion of mine. They’ve always been more than just stories for me. Reading has taken me on countless adventures, brought me comfort during tough times, and taught me lessons in humanity and practicality. Books feel like old friends—always there, full of wisdom and escape. Some of my favorites include *Hello Beautiful* by Ann Napolitano, *Everything I Never Told You* by Celeste Ng, *Heart of Darkness* by Joseph Conrad, and *Pride and Prejudice* by Jane Austen. I’m always open to book recommendations and love discovering new worlds and realizations between the pages!
+
+I balance all of this with practicing hatha yoga, which helps me stay grounded and connected to my body. It’s a peaceful way to bring focus to my day, but most of all, ground myself within and the environment and people around me.
+
+Whether I’m in nature, preserving flowers, or lost in a good book, I find these activities bring me a sense of peace and balance.
